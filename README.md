@@ -1,14 +1,14 @@
 ## Hii there 👋, I'm Keval!
 
-#### I'm a Flutter & Android App Developer working from nowhere.
+#### I'm a Flutter & Android App Developer.
 
 ##### About me
 - ✨ Craftig IoT and BLE Flutter apps with clean code and architecture. 
-- 🏢 I'm currently working as **Freelancer/Remote app developer**
+- 🏢 I'm currently working as **Freelancer/Remote developer**
 - ⚙️ I use daily: `.dart`, `.yaml`, `.kt`, `.java`, `.swift`, `.xml`, `.sh`
 - 📃 I also know: `.swift`, `.js`, `.ts`, `.cpp`, `.html`
 - 🌍 I'm mostly active within the **Flutter Community**
-- 🌱 Learning all about **Open Source**
+- 🌱 Learning all about **DevOps** & **Open Source**
 - 💬 Ping me about **flutter**, **kotlin**, **BLE** development
 - 📫 Reach me on: 
 
