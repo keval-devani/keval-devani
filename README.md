@@ -3,7 +3,7 @@
 #### I'm a Flutter & Android App Developer.
 
 ##### About me
-- ✨ Craftig IoT and BLE Flutter apps with clean code and architecture. 
+- ✨ Crafting IoT and BLE Flutter apps with clean code and architecture. 
 - 🏢 I'm currently working as **Freelancer/Remote developer**
 - ⚙️ I use daily: `.dart`, `.yaml`, `.kt`, `.java`, `.swift`, `.xml`, `.sh`
 - 📃 I also know: `.swift`, `.js`, `.ts`, `.cpp`, `.html`
