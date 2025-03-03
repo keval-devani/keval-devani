@@ -1,6 +1,6 @@
 ## Hii there 👋, I'm Keval!
 
-#### I'm a Flutter & Android App Developer.
+#### I'm a Flutter & Android/iOS App Developer.
 
 ##### About me
 - ✨ Crafting IoT and BLE Flutter apps with clean code and architecture. 
