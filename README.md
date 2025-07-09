@@ -1,3 +1,48 @@
+# 👋 Hi there, I'm Keval!
+
+🚀 I'm a **Flutter & Android/iOS App Developer** passionate about building sleek, scalable mobile apps with modern tech.
+
+---
+
+### 🧑‍💻 About Me
+
+✨ I specialize in **IoT** and **BLE** mobile applications using Flutter, with a focus on clean architecture and maintainable codebases.  
+🏢 Currently working as a **Freelancer / Remote Developer** on cross-platform projects.  
+🌍 Actively contributing and learning within the **Flutter Community**.  
+🌱 Exploring the world of **DevOps** and contributing to **Open Source**.  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Tools I Use Daily:**
+
+- `Dart`, `Kotlin`, `Java`, `Swift`, `YAML`, `XML`, `Shell`
+
+**Also familiar with:**
+
+- `JavaScript`, `TypeScript`, `C++`, `HTML`, `SwiftUI`
+
+---
+
+### 💬 Let's Connect
+
+🧠 Always up for discussions on:
+
+- Flutter app architecture  
+- Kotlin + Android development  
+- BLE & IoT integrations  
+
+📫 Reach me via:
+
+[<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kevaldevani101@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keval-devani-159a71a9/)
+
+---
+
+> 📌 *Building beautiful, robust apps one line of code at a time.*
+
+<!--
 ## Hii there 👋, I'm Keval!
 
 #### I'm a Flutter & Android/iOS App Developer.
@@ -14,18 +59,4 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keval-devani-159a71a9/)
 [<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kevaldevani101@gmail.com)
-
-
-<!--
-**keval-devani/keval-devani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning DevOps
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Flutter, android and
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
