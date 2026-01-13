@@ -1,62 +1,80 @@
-# 👋 Hi there, I'm Keval!
+# 👋 Hi, I'm Keval Devani
 
-🚀 I'm a **Flutter & Android/iOS App Developer** passionate about building sleek, scalable mobile apps with modern tech.
-
----
-
-### 🧑‍💻 About Me
-
-✨ I specialize in **IoT** and **BLE** mobile applications using Flutter, with a focus on clean architecture and maintainable codebases.  
-🏢 Currently working as a **Freelancer / Remote Developer** on cross-platform projects.  
-🌍 Actively contributing and learning within the **Flutter Community**.  
-🌱 Exploring the world of **DevOps** and contributing to **Open Source**.  
+🚀 **Senior Flutter & Mobile IoT Engineer**  
+I build **production-grade mobile applications** that connect to **real-world smart devices** using **Bluetooth (BLE)** and **cloud IoT platforms**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 What I Do
 
-**Languages & Tools I Use Daily:**
+I specialize in designing and implementing **device-connected mobile systems**, focusing on **reliability, scalability, and clean architecture**.
 
-- `Dart`, `Kotlin`, `Java`, `Swift`, `YAML`, `XML`, `Shell`
+My work typically involves:
+- Flutter apps communicating with **BLE-enabled devices**
+- Secure **device → cloud → mobile** workflows
+- Real-time telemetry and control using **MQTT**
+- Architecture ownership and long-term maintainability
 
-**Also familiar with:**
-
-- `JavaScript`, `TypeScript`, `C++`, `HTML`, `SwiftUI`
-
----
-
-### 💬 Let's Connect
-
-🧠 Always up for discussions on:
-
-- Flutter app architecture  
-- Kotlin + Android development  
-- BLE & IoT integrations  
-
-📫 Reach me via:
-
-[<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kevaldevani101@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keval-devani-159a71a9/)
+I work closely with **IoT startups, hardware teams, and agencies** on complex mobile systems.
 
 ---
 
-> 📌 *Building beautiful, robust apps one line of code at a time.*
+## 🔌 Core Expertise
 
-<!--
-## Hii there 👋, I'm Keval!
+### 📱 Mobile & Flutter
+- Flutter (Android & iOS)
+- Clean Architecture & feature-based modularization
+- Riverpod, Bloc
+- Platform channels (Kotlin / Swift)
+- Performance optimization & refactoring legacy apps
 
-#### I'm a Flutter & Android/iOS App Developer.
+### 🔗 BLE & IoT
+- Bluetooth Low Energy (BLE)
+- Device scanning, pairing, GATT services
+- Reconnection & reliability strategies
+- NFC integrations
+- Smart devices (sensors, fans, health devices)
 
-##### About me
-- ✨ Crafting IoT and BLE Flutter apps with clean code and architecture. 
-- 🏢 I'm currently working as **Freelancer/Remote developer**
-- ⚙️ I use daily: `.dart`, `.yaml`, `.kt`, `.java`, `.swift`, `.xml`, `.sh`
-- 📃 I also know: `.swift`, `.js`, `.ts`, `.cpp`, `.html`
-- 🌍 I'm mostly active within the **Flutter Community**
-- 🌱 Learning all about **DevOps** & **Open Source**
-- 💬 Ping me about **flutter**, **kotlin**, **BLE** development
-- 📫 Reach me on: 
+### ☁️ Cloud & Messaging
+- AWS IoT Core
+- MQTT (pub/sub, telemetry, commands)
+- ThingsBoard SDK
+- Offline-first sync strategies
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keval-devani-159a71a9/)
-[<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kevaldevani101@gmail.com)
--->
+### ⚙️ DevOps & CI/CD
+- GitHub Actions for Flutter
+- Android & iOS build automation
+- Environment-based configurations
+- TestFlight & Play Store pipelines
+
+---
+
+## 🛠 Tech Stack
+
+**Primary**
+- Dart, Flutter
+- Kotlin, Java
+- Swift (platform integrations)
+
+**Also Used**
+- JavaScript, TypeScript
+- YAML, Shell scripting
+- Drift, SQLite, Hive
+
+---
+
+## 💬 Topics I Enjoy Discussing
+
+- Flutter architecture for large apps
+- BLE reliability & device communication
+- Mobile + IoT system design
+- CI/CD for mobile projects
+
+---
+
+## 📫 Connect With Me
+[<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kevaldevani101@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keval-devani-159a71a9/)
+
+---
+
+> Building reliable mobile systems where **hardware, cloud, and apps meet**.
